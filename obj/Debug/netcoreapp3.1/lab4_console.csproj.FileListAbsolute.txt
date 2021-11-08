@@ -1,0 +1,14 @@
+C:\Users\Dimon\source\repos\lab4_console\obj\Debug\netcoreapp3.1\lab4_console.csproj.AssemblyReference.cache
+C:\Users\Dimon\source\repos\lab4_console\obj\Debug\netcoreapp3.1\lab4_console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dimon\source\repos\lab4_console\obj\Debug\netcoreapp3.1\lab4_console.AssemblyInfoInputs.cache
+C:\Users\Dimon\source\repos\lab4_console\obj\Debug\netcoreapp3.1\lab4_console.AssemblyInfo.cs
+C:\Users\Dimon\source\repos\lab4_console\obj\Debug\netcoreapp3.1\lab4_console.csproj.CoreCompileInputs.cache
+C:\Users\Dimon\source\repos\lab4_console\bin\Debug\netcoreapp3.1\lab4_console.exe
+C:\Users\Dimon\source\repos\lab4_console\bin\Debug\netcoreapp3.1\lab4_console.deps.json
+C:\Users\Dimon\source\repos\lab4_console\bin\Debug\netcoreapp3.1\lab4_console.runtimeconfig.json
+C:\Users\Dimon\source\repos\lab4_console\bin\Debug\netcoreapp3.1\lab4_console.runtimeconfig.dev.json
+C:\Users\Dimon\source\repos\lab4_console\bin\Debug\netcoreapp3.1\lab4_console.dll
+C:\Users\Dimon\source\repos\lab4_console\bin\Debug\netcoreapp3.1\lab4_console.pdb
+C:\Users\Dimon\source\repos\lab4_console\obj\Debug\netcoreapp3.1\lab4_console.dll
+C:\Users\Dimon\source\repos\lab4_console\obj\Debug\netcoreapp3.1\lab4_console.pdb
+C:\Users\Dimon\source\repos\lab4_console\obj\Debug\netcoreapp3.1\lab4_console.genruntimeconfig.cache
